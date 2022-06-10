@@ -1,0 +1,52 @@
+马来,#genre#
+Astro AEC,mitv://ns2.hellotvvod.com:9906/7d4b9308606144cfab8e645f443528fc.ts
+Astro AEC(备),mitv://ns2.hellotvvod.com:9906/bcc938ab5b5041089e4edb75ccd224d5.ts
+Astro欢喜台,mitv://ns2.hellotvvod.com:9906/8c13b40d7aa0442ba7ad263a3ecb0116.ts
+Astro欢喜台(备),mitv://ns2.hellotvvod.com:9906/b09e290579d641a4a988c1ab37e67b45.ts
+Astro双星,mitv://ns2.hellotvvod.com:9906/4b54555a59e94f06a348d05dc8a8c7a6.ts
+Astro全佳,mitv://ns2.hellotvvod.com:9906/9294b59eeed4484e9f456ec965c12c15.ts
+翡翠台(华丽台),mitv://ns2.hellotvvod.com:9906/f2200731e1ea4d8cba571ce2cbe1fc86.ts
+爱奇艺,mitv://ns2.hellotvvod.com:9906/ecddb042ec4c4bb6b054af29e061cb74.ts
+Astro小太阳,mitv://ns2.hellotvvod.com:9906/09d0213f918343e4b2f4a72f21c5a524.ts
+天映频道,mitv://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
+天映经典,mitv://ns2.hellotvvod.com:9906/1d139ee4124e4f0087893f06234b0c9a.ts
+TVB经典台,mitv://ns2.hellotvvod.com:9906/cac20e8b0588407e8a93377cc557c044.ts
+TVB娱乐新闻台,mitv://ns2.hellotvvod.com:9906/76c51c3849e44a508e6f239c72fcddb2.ts
+HGTV居家乐活频道,mitv://ns2.hellotvvod.com:9906/fc0bc391b3b74fa79707bb5662269e78.ts
+中天亚洲台,mitv://ns2.hellotvvod.com:9906/0fcb17074c024d358c704c2b1a30e364.ts
+TVB星河(粤),mitv://ns2.hellotvvod.com:9906/dc9a40ffad43467dabfba5c3dbd8036d.ts
+TVBS亚洲,mitv://ns2.hellotvvod.com:9906/400f8614cd1a4fc29d2dcd94e99489e1.ts
+Astro AOD HD 311,mitv://ns2.hellotvvod.com:9906/ca200aab2ff7425c9519dddc1b07dea0.ts
+Astro AOD 352,mitv://ns2.hellotvvod.com:9906/c503d77f9b07482f8e0b59906cb74ab8.ts
+Astro AOD 354,mitv://ns2.hellotvvod.com:9906/f8b80d69bba04450ac85a5b06924f886.ts
+Astro Arena,mitv://ns2.hellotvvod.com:9906/9edb8832e1a946bc945289eec5ea2185.ts
+Astro Arena 2,mitv://ns2.hellotvvod.com:9906/8c961a83145940bfbc9c5cfc4869c00d.ts
+RTM Sport,mitv://ns2.hellotvvod.com:9906/cf011c8e1f5248d58c668dcb5d2b062d.ts
+Astro SuperSport,mitv://ns2.hellotvvod.com:9906/105791ef70f0493e9a7f3e92dd31e708.ts
+Astro SuperSport 2,mitv://ns2.hellotvvod.com:9906/3462a01f29c547a19909b6dcaa59ff9a.ts
+Astro SuperSport 3,mitv://ns2.hellotvvod.com:9906/b9a3efab6e6343d8b8385a8d53867d99.ts
+Astro SuperSport 4,mitv://ns2.hellotvvod.com:9906/4e28d895a4c941fbb221e9b79b7fee84.ts
+Astro SuperSport 5,mitv://ns2.hellotvvod.com:9906/a6a51cd83c8e4c79b63c069fa61d2e5e.ts
+Eurosport HD,mitv://ns2.hellotvvod.com:9906/5e78c68dee1d4713952f2d0e394b307b.ts
+Astro Cricket,mitv://ns2.hellotvvod.com:9906/ac9fb01ea4ba494f80882b5c3a8837ff.ts
+WWE,mitv://ns2.hellotvvod.com:9906/a5af33cc1f7443c59e8696aaf471ad2e.ts
+beIN Sports,mitv://ns2.hellotvvod.com:9906/ea07726194b8481996417c3659c589ed.ts
+beIN Sports 2,mitv://ns2.hellotvvod.com:9906/73777cc290794926b6159693437e8cdd.ts
+beIN Sports 3,mitv://ns2.hellotvvod.com:9906/b3f63dad92b64fa28208116dab9fdafe.ts
+SPOTV,mitv://ns2.hellotvvod.com:9906/139cf56905c24e66907fff5a464883d2.ts
+Golf Channel,mitv://ns2.hellotvvod.com:9906/b00d3cb6313647f49fdd4bff7601e3f8.ts
+Astro Awani,mitv://ns2.hellotvvod.com:9906/0ba7aa43b35b40e9bfa6e5bb2a44df21.ts
+Berita RTM,mitv://ns2.hellotvvod.com:9906/b7898804578e4f9795373370f635f4ea.ts
+BERNAMA,mitv://ns2.hellotvvod.com:9906/bdd7e6636b9d41a08fc6114b5f1542bc.ts
+CGTN,mitv://ns2.hellotvvod.com:9906/563569aad1c142a9aba185d061b1c69f.ts
+BBC World News,mitv://ns2.hellotvvod.com:9906/3111663d06d349b69c2df597860aa331.ts
+Al Jazeera English,mitv://ns2.hellotvvod.com:9906/2933c0d4267044b1b1a4231157bdeb5f.ts
+CNBC,mitv://ns2.hellotvvod.com:9906/35f90e1679854741b3187486a8981e7b.ts
+Bloomberg TV,mitv://ns2.hellotvvod.com:9906/272e1789dac349de97fccd5d8070b0bb.ts
+Boomerang,mitv://ns2.hellotvvod.com:9906/9ce1018c356348109b0d9700862a017d.ts
+Sky News,mitv://ns2.hellotvvod.com:9906/2aeb4c3ccfa944a09e07b4b786ce2a4d.ts
+DW,mitv://ns2.hellotvvod.com:9906/5e3cbc2272774870884f7e84cb693c52.ts
+France24,mitv://ns2.hellotvvod.com:9906/1bdd8945ab41450a82209beb77923eaa.ts
+CNN,mitv://ns2.hellotvvod.com:9906/5ae877d0e1b94ca9af3eb8c2810b5f6a.ts
+ABC Australia,mitv://ns2.hellotvvod.com:9906/974e2c4f2c9648ba96c209e38176ca22.ts
+
